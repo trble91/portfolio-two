@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "@/Components/Header.jsx";
-import Homepage from "@/Components/Screens/Homepage.jsx";
-import Nav from "@/Components/Nav.jsx";
+import Header from "./Components/Header.jsx"
+import Homepage from "./Components/Screens/Homepage.jsx";
+import Nav from "./Components/Nav.jsx";
 
 export default function Home() {
   return (
